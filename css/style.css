@@ -466,7 +466,7 @@ a.read_more:hover {
 
 .timeline{
 	padding:60px 0;
-    background-image: url("/img/photo_5.jpg" );
+    background-image: url("img/photo_5.jpg" );
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -1430,7 +1430,7 @@ border: 1px solid #CE1139;
 #portfolio_wrapper {
     position: relative;
     padding: 0;
-    width: 100%;
+    width: 79%;
     margin: 0 auto;
     display: block;
 }
